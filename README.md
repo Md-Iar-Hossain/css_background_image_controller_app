@@ -1,5 +1,6 @@
 # CSS Background Image Controller App
-![image](https://github.com/Md-Iar-Hossain/CSS-Background-Image-Controller-App/assets/72465649/8c54571d-3f85-4295-82e9-e73832631d35)
+![image](https://github.com/Md-Iar-Hossain/css_background_image_controller_app/assets/72465649/4c4f047a-6307-482a-bfc3-a9c92b88a094)
+
 
 Hello coders, <br>
 I created a simple app for css background <br>
@@ -7,7 +8,8 @@ I created a simple app for css background <br>
 <b> Project Name: </b> CSS background image controller <br>
 <b> Date of Creation: </b> 17th July 2022 <br>
 
-![image](https://github.com/Md-Iar-Hossain/CSS-Background-Image-Controller-App/assets/72465649/e3c157df-17b1-4376-9e3e-d430df83988c)
+![image](https://github.com/Md-Iar-Hossain/css_background_image_controller_app/assets/72465649/1e4d56ff-5885-49be-843c-7214a0871fed)
+
 
 Features: <br>
    => <i> User can upload the image </i> <br>
