@@ -14,5 +14,6 @@ I created a simple app for css background <br>
 Features: <br>
    => <i> User can upload the image </i> <br>
    => <i> User can take control of background image </i> <br>
- Here is the live <a href="https://md-iar-hossain.github.io/css_background_image_controller_app/"> Preview link. </a>
+ Here is the live <a href="https://md-iar-hossain.github.io/css_background_image_controller_app/"> Preview link. </a>  
+ Tutorial [link](https://youtu.be/uNKXVir83uI?si=Q7vQjydCYlE8uQYA)
 
